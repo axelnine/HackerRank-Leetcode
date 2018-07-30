@@ -1,2 +1,3 @@
-# HackerRank-Challenges
-This repository contains codes for HackerRank Machine Learning Challenges
+## HackerRank/LeetCode Challenges:
+
+This repository contains solutions for Leetcode problems as well as HackerRank MachineLearning Challenges
